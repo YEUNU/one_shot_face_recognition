@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+dataset_train_receipt.csv
+dataset_val_receipt.csv
+
+dataset/
+
 lfw-deepfunneled
 .DS_Store
 # C extensions
